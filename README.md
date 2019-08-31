@@ -6,7 +6,7 @@
  * 散热器：NOCTUA 猫头鹰 NH-U12A
  * 散热器：NF-F12 industrialPPC-3000 PWM
  * 散热器：NF-F12 industrialPPC-3000 PWM
- * 显卡：Vega VII 16G 公版
+ * 显卡：AMD Radeon VII 16 GB
  * 内存：芝奇 皇家戟 DDR4 3200 C16 32G
  * 机箱：迎广INWIN A1 Plus
  * 电源：silverstone ST80-TI
