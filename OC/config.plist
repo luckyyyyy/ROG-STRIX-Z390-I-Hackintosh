@@ -566,7 +566,7 @@
 				<key>nvda_drv</key>
 				<data></data>
 				<key>prev-lang:kbd</key>
-				<data>cnUtUlU6MjUy</data>
+				<data>emgtSGFuczoyNTI=</data>
 			</dict>
 		</dict>
 		<key>Block</key>
@@ -642,10 +642,9 @@
 		<true/>
 		<key>Drivers</key>
 		<array>
-			<string>HfsPlus.efi</string>
+			<string>HFSPlus.efi</string>
 			<string>ApfsDriverLoader.efi</string>
 			<string>FwRuntimeServices.efi</string>
-			<string>VirtualSmc.efi</string>
 			<string>MemoryAllocation.efi</string>
 			<string>EmuVariableRuntimeDxe.efi</string>
 		</array>

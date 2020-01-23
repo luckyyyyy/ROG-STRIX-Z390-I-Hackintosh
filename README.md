@@ -1,8 +1,8 @@
 # ROG-STRIX-Z390-I-Hackintosh
 
- * CPU：Intel i9 9900KF
+ * CPU：Intel i9 9900K
  * 主板：ROG STRIX Z390-I GAMING
- * 硬盘：三星970EVO PLUS 500G NVME M.2
+ * 硬盘：三星 970EVO PLUS 500G NVME M.2
  * 散热器：NOCTUA 猫头鹰 NH-U12A
  * 散热器：NF-F12 industrialPPC-3000 PWM
  * 散热器：NF-F12 industrialPPC-3000 PWM
