@@ -6,6 +6,9 @@ Guide used [OpenCore Vanilla](https://khronokernel.github.io/Opencore-Vanilla-De
 
 This has been tested and is running on 10.15.4 (with the supplemental update).
 
+![System Info](info.png)
+
+
 ## Hardware
 
  - CPU: Intel i9 9900K
