@@ -34,7 +34,7 @@ This has been tested and is running on 10.15.4 (with the supplemental update).
 
 ### USB Port Mapping
 
-![USB Ports](usbports.jpeg)
+![USB Ports](usbports.jpg)
 
 ## Kexts
 
