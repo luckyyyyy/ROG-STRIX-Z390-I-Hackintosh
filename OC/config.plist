@@ -839,7 +839,7 @@
 			<key>ThirdPartyDrives</key>
 			<false/>
 			<key>XhciPortLimit</key>
-			<false/>
+			<true/>
 		</dict>
 		<key>Scheme</key>
 		<dict>
@@ -1143,6 +1143,8 @@
 			<string>Builtin</string>
 			<key>CustomDelays</key>
 			<false/>
+			<key>GraphicsInputMirroring</key>
+			<true/>
 			<key>KeyInitialDelay</key>
 			<integer>0</integer>
 			<key>KeySubsequentDelay</key>
