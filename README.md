@@ -4,7 +4,7 @@ OpenCore 0.7.4
 
 Guide used [OpenCore Vanilla](https://khronokernel.github.io/Opencore-Vanilla-Desktop-Guide/), I highly suggest reading through all of it and going through and creating your own `config.plist` even if it's just to understand the inner workings of OpenCore. Directly copying my `config.plist` may not work if you do not have the exact components that I do.
 
-This has been tested and is running on 10.14.x, 10.15.x, 11.x.
+This has been tested and is running on 10.14.x, 10.15.x, 11.x, 12.x.
 
 ![System Info](info.png)
 
