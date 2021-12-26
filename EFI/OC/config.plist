@@ -212,6 +212,8 @@
 		<array/>
 		<key>Quirks</key>
 		<dict>
+			<key>ResizeAppleGpuBars</key>
+			<integer>-1</integer>
 			<key>AllowRelocationBlock</key>
 			<false/>
 			<key>AvoidRuntimeDefrag</key>
@@ -1030,8 +1032,6 @@
 			<dict>
 				<key>DefaultBackgroundColor</key>
 				<data>AAAAAA==</data>
-				<key>UIScale</key>
-				<data>Ag==</data>
 			</dict>
 			<key>4D1FDA02-38C7-4A6A-9CC6-4BCCA8B30102</key>
 			<dict>
@@ -1118,7 +1118,7 @@
 			<key>ProcessorType</key>
 			<integer>0</integer>
 			<key>ROM</key>
-			<data></data>
+			<data>AAA=</data>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemMemoryStatus</key>
@@ -1201,6 +1201,8 @@
 		<key>Drivers</key>
 		<array>
 			<dict>
+				<key>Comment</key>
+				<string></string>
 				<key>Arguments</key>
 				<string></string>
 				<key>Enabled</key>
@@ -1209,12 +1211,14 @@
 				<string>OpenRuntime.efi</string>
 			</dict>
 			<dict>
+				<key>Comment</key>
+				<string></string>
 				<key>Arguments</key>
 				<string></string>
 				<key>Enabled</key>
 				<true/>
 				<key>Path</key>
-				<string>HfsPlus.efi</string>
+				<string>OpenHfsPlus.efi</string>
 			</dict>
 		</array>
 		<key>Input</key>
@@ -1238,6 +1242,10 @@
 		</dict>
 		<key>Output</key>
 		<dict>
+			<key>UIScale</key>
+			<integer>2</integer>
+			<key>ReconnectGraphicsOnConnect</key>
+			<false/>
 			<key>ClearScreenOnModeSwitch</key>
 			<false/>
 			<key>ConsoleMode</key>
@@ -1306,6 +1314,10 @@
 		</dict>
 		<key>Quirks</key>
 		<dict>
+			<key>EnableVmx</key>
+			<true/>
+			<key>ResizeGpuBars</key>
+			<integer>-1</integer>
 			<key>ActivateHpetSupport</key>
 			<false/>
 			<key>DisableSecurityPolicy</key>
